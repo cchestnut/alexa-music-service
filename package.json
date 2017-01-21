@@ -1,0 +1,26 @@
+{
+  "name": "alexa-music-service",
+  "version": "1.0.0",
+  "description": "Connect to those music services that Alexa doesnt ship with",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchestnut/alexa-music-service.git"
+  },
+  "keywords": [
+    "alexa",
+    "voice",
+    "music",
+    "google",
+    "play"
+  ],
+  "author": "Chestnut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cchestnut/alexa-music-service/issues"
+  },
+  "homepage": "https://github.com/cchestnut/alexa-music-service#readme"
+}
